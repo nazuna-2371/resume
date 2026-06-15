@@ -50,7 +50,7 @@ MARGPAは、現時点での公開中の代表成果を見るための個別リ�
 分析に用いた手順、評価観点、圧縮方針については、下記資料に整理しています。
 
 * 職務経歴書作成における能力・スキルの分析手順・評価設計:  
-  [docs/resume_analysis_methodology_ja.md](https://github.com/nazuna-2371/resume/blob/main/docs/resume_analysis_methodology_ja.md)
+  [docs/resume_analysis_methodology_ja.md](https://github.com/nazuna-2371/resume/blob/main/docs/resume_analysis_methodology_ja.md)  
   [docs/resume_analysis_methodology_en.md](https://github.com/nazuna-2371/resume/blob/main/docs/resume_analysis_methodology_en.md)
 
 ---
