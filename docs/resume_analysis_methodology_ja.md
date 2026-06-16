@@ -64,10 +64,7 @@ AI活用上の違和感検知、仕様化・改善への接続可能性を確認
 
 公開可能な代表成果として、MARGPAおよびその関連資料を対象に含めています。
 
-```text
-MARGPA: Modular AI Runtime Governance Prompting Architecture
-https://github.com/nazuna-2371/margpa/
-```
+[MARGPA: Modular AI Runtime Governance Prompting Architecture](https://github.com/nazuna-2371/margpa/)
 
 MARGPA関連では、LLMの推論、文脈保持、前提固定、矛盾処理、自己修復、実行時ガバナンスなどの観点を、
 職務経歴書上で説明可能な能力カテゴリへ整理しました。
