@@ -59,10 +59,7 @@ Instead, it treats as objects of confirmation the problem identification, busine
 
 MARGPA and its related materials are included as representative publicly shareable outputs.
 
-```text
-MARGPA: Modular AI Runtime Governance Prompting Architecture
-https://github.com/nazuna-2371/margpa/
-```
+[MARGPA: Modular AI Runtime Governance Prompting Architecture](https://github.com/nazuna-2371/margpa/)
 
 For MARGPA-related materials, perspectives such as LLM reasoning, context preservation, premise fixation, contradiction handling, self-repair, and runtime governance were organized into capability categories that can be explained in a resume.
 
