@@ -29,6 +29,9 @@ These terms apply to all materials contained in this repository, including but n
 * explanatory materials related to non-public portfolio materials
 * text, structure, descriptions, and related repository content
 
+[MARGPA](https://github.com/nazuna-2371/margpa/) is excluded from the scope of these terms because it has already been published under CC BY-SA 4.0.
+For MARGPA, the license terms specified in the MARGPA repository apply.
+
 本利用条件は、本リポジトリに含まれる以下を含むすべての資料に適用されます。
 
 * 職務経歴書
@@ -37,6 +40,9 @@ These terms apply to all materials contained in this repository, including but n
 * 分析手順・評価設計に関する資料
 * 未公開のポートフォリオ関連の説明資料
 * テキスト、構成、記述内容、その他リポジトリ内の関連コンテンツ
+
+[MARGPA](https://github.com/nazuna-2371/margpa/) は既にCC BY-SA 4.0にて公開済のため、本利用条件の対象外とします。  
+MARGPAについては、MARGPAリポジトリ側で定められたライセンス条件が適用されます。
 
 ---
 
